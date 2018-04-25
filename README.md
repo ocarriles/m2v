@@ -1,2 +1,2 @@
 # m2v
-Private M2V project tracker
+Private Mandala project tracker
